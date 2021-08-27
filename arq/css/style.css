@@ -183,7 +183,7 @@ margin: top | left and right | bottom;
     margin-right: 1.5rem;
   }
   .carousel-cell img {
-    width: 100%;
+    width: 100% !important;
 /*    height: 480px;*/
   }
   
@@ -193,7 +193,7 @@ margin: top | left and right | bottom;
     margin: .5rem 1.5rem;
   }
   .carousel-cell img {
-    width: 300px;
+    width: 300px !important;
   }
   .carousel-cell div {
     width: 300px;
