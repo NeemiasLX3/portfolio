@@ -170,7 +170,6 @@ margin: top | left and right | bottom;
   margin-right: 1.5rem;
 }
 .carousel-cell {
-  width: 100%;
   display: block;
   position: absolute;
 }
