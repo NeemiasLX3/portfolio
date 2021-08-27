@@ -190,7 +190,7 @@ margin: top | left and right | bottom;
   }
   .carousel-cell img {
     width: 300px;
-    height: 100%;
+    min-height: 100%;
 /*    min-height: 300px;*/
   }
   .carousel-cell div {
