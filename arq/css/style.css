@@ -166,7 +166,6 @@ margin: top | left and right | bottom;
   display: none;
 }
 .carousel-cell img {
-  width: 100%;
   border-radius: 9px 9px 0 0;
   margin-right: 1.5rem;
 }
@@ -190,10 +189,11 @@ margin: top | left and right | bottom;
   }
   .carousel-cell img {
     width: 300px;
-    min-height: 300px;
+/*    min-height: 300px;*/
   }
   .carousel-cell div {
     width: 300px;
+    height: 100%;
   }
 }
 
