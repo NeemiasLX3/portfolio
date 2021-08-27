@@ -191,7 +191,7 @@ margin: top | left and right | bottom;
 /*    min-height: 300px;*/
   }
   .carousel-cell div {
-    min-width: 300px;
+    width: 100%;
   }
 }
 
